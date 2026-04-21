@@ -1,0 +1,7 @@
+[package]
+name = "rusty_learning"
+version = "0.1.0"
+edition = "2021"
+description = "Personal Rust curriculum — runnable examples per topic"
+readme = "README.md"
+autobins = true
