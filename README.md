@@ -1,25 +1,11 @@
 # Rusty — Rust learning workspace
 
-This folder is a personal curriculum: notes in `practice/` and `projects/`, and small runnable sketches under `src/bin/`.
-
 ## Prerequisites
 
 - Install Rust from [rustup.rs](https://rustup.rs/).
 - On Windows with the default MSVC toolchain, you need the **Visual C++ Build Tools** (or full Visual Studio with the C++ workload) so `link.exe` is available. If `cargo build` complains about `link.exe`, install the build tools or switch to the GNU toolchain via `rustup`.
 
-## How to run a topic
-
-From this directory:
-
-```bash
-cargo run --bin t03_variables
-```
-
-List all topic binaries:
-
-```bash
-cargo build --bins
-```
+//
 
 ## Curriculum checklist
 
